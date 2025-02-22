@@ -259,47 +259,8 @@ Website | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x:
 >
 > [Updates](https://www.lomcn.net/forum/forums/topaz-mir-4-updates.851/)
 ---------------------------------------------------------------------------
-# Dev Team:
 
-<img src="https://c.tenor.com/7_KRHOBcSnEAAAAC/tenor.gif" alt="Jev" width="96" height="96">
 
-[Jev](https://www.lomcn.net/forum/members/jev.29880/)
-
-<img src="https://media0.giphy.com/media/aqFRBqGjnznd6/200w.gif?cid=6c09b952wuk8b08io9qjladlzo7ru8dtnbyt82ll1m3pzaxd&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="Meacher" width="96" height="96">
-
-[Meacher](https://www.lomcn.net/forum/members/meacher.3993/)
-
-<img src="https://i.imgur.com/gn1N4bQ.gif" alt="1PKRyan" width="96" height="96">
-
-[1PKRyan](https://www.lomcn.net/forum/members/1pkryan.13050/)
-
-<img src="https://66.media.tumblr.com/725aeaf36ff6262f947aa945164e49a2/tumblr_pfnyfnGjG81wzypxlo1_640.gif" alt="Wagner" width="96" height="96">
-
-[Wagner](https://www.lomcn.net/forum/members/estregoik.45841/)
-
-<img src="https://cdn.discordapp.com/avatars/867884931589865533/a_d6dcbaf91ad44a536ee5407364e66f50.gif" alt="Nyyl" width="96" height="96">
-
-[Nyyl](https://www.lomcn.net/forum/members/nyylxd.42262/)
-
-<img src="https://giffiles.alphacoders.com/137/13771.gif" alt="S4oul" width="96" height="96">
-
-[S4oul](https://github.com/s4oul)
-
-<img src="https://media.tenor.com/iX3IgCDMOfgAAAAj/bonnie-bonnie-swanson.gif" alt="Charlotte" width="96" height="96">
-
-[Charlotte](https://www.lomcn.net/forum/members/charlotte.44502/)
-
-<img src="https://media.tenor.com/GtmGLCw1SmUAAAAM/buggriddy-lusgifs.gif" alt="BughyT" width="96" height="96">
-
-[BughyT](https://www.lomcn.net/forum/members/bughyt.46860/)
-
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHV5OXRkZzhlOHZpbDlodHFodTEwN3gwemU1ZnVjbnE5N2I0Z3VyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rzPCC2WznvksSseXH9/giphy.webp" alt="Redacted" width="96" height="96">
-
-[Redacted]()
-
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHV5OXRkZzhlOHZpbDlodHFodTEwN3gwemU1ZnVjbnE5N2I0Z3VyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rzPCC2WznvksSseXH9/giphy.webp" alt="Redacted" width="96" height="96">
-
-[Redacted]()
 
 # Contributors:
 
