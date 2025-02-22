@@ -247,17 +247,7 @@ Website | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x:
 - [ ] Autopatcher for Client
 - [ ] Monster Database (Server Console)
 ---------------------------------------------------------------------------
-# LOMCN Links:
 
-> [Tutorials](https://www.lomcn.net/forum/forums/topaz-mir-4-tutorials.847/)
->
-> [Releases](https://www.lomcn.net/forum/forums/topaz-mir-4-releases.848/)
->
-> [Bug Reports](https://www.lomcn.net/forum/forums/topaz-mir-4-bug-reports.849/)
->
-> [Help](https://www.lomcn.net/forum/forums/topaz-mir-4-help.850/)
->
-> [Updates](https://www.lomcn.net/forum/forums/topaz-mir-4-updates.851/)
 ---------------------------------------------------------------------------
 
 
@@ -301,6 +291,4 @@ Website | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x:
 
 [RageZone](https://forum.ragezone.com/) - RaGEZONE is a website dedicated to the development of massively multiplayer online role-playing games. (MMORPGs)
 
-<img src="https://www.lomcn.net/forum/styles/uix/images/logo2024_100.png" alt="LOMCN">
 
-[LOMCN](https://www.lomcn.net/) - The Legend of Mir Community Network is a fan based site on the MMORPG Legend of Mir.
